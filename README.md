@@ -5,7 +5,7 @@ title: Airbnb Data Analysis
 
 # NBA Stats EDA (1996~2022)
 
-![nba_logo](https://hackmd.io/_uploads/H1NMhbrhR.jpg)
+![nba_logo](https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2021-08/nba-logo-this-is-why-we-play_1x5eulu7n2arq15qurp67kplpb.jpg?itok=MnBhe_YM))
 
 
 This repository contains an Exploratory Data Analysis (EDA) project on NBA statistics spanning from the 1996 to 2022 seasons. The analysis leverages SQL to extract, transform, and analyze data, providing insights into player performances, team dynamics, and overall trends within the NBA during this period.
@@ -30,10 +30,6 @@ git clone git@github.com:(your profile)/NBA_SQL_EDA.git
 
 cd nba_sql_eda
 
-![Screenshot 2024-09-03 at 3.25.26 PM](https://hackmd.io/_uploads/H1SxTWHnC.png)
-
-
-
 
 ### Usage
 - Open your SQL environment and connect to the database containing the NBA dataset.
@@ -41,4 +37,4 @@ cd nba_sql_eda
 - Analyze the results using the visualizations or summary statistics generated.
 
 ### Dashboard
-![Screenshot 2024-09-03 at 3.26.50 PM](https://hackmd.io/_uploads/rkCEaWB3A.png)
+[Dashboard](https://public.tableau.com/app/profile/hyung.cho/viz/NBA_1996_2022/Dashboard1?publish=yes)
